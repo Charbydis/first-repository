@@ -12,5 +12,4 @@ def Calculator():
     print(number1,"X",number2,"=",(number1*number2))
   elif(selection == "4"):
     print(number1,"/",number2,"=",(number1/number2))
-    
- Calculator()
+Calculator()
